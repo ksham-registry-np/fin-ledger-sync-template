@@ -1,0 +1,15 @@
+{
+    "id": "fin-ledger-sync",
+    "title": "Indiranagar Ledger Reconciliation",
+    "difficulty": "MEDIUM",
+    "category": "FIN",
+    "description": "Implement a high-performance ledger reconciliation engine.",
+    "duration": "45m",
+    "tags": [
+        "Node.js",
+        "Performance",
+        "Data Processing",
+        "FinTech"
+    ],
+    "templateRepo": "https://github.com/ksham-registry-np/fin-ledger-sync-template"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "indiranagar-ledger-sync",
+    "version": "1.0.0",
+    "description": "High-Performance Data Reconciliation Challenge",
+    "main": "src/reconciler.js",
+    "scripts": {
+        "test": "mocha tests/**/*.test.js"
+    },
+    "devDependencies": {
+        "mocha": "^10.2.0"
+    }
+}
